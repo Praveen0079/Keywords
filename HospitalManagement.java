@@ -4,7 +4,7 @@ public class HospitalManagement {
         static int totalPatients = 0; // Static counter for total patients admitted
 
         String name;
-        final int patientID; // Final variable for unique patient identification
+        final int patientID; // Final variable for unique patient identification 
         int age;
         String ailment;
 
