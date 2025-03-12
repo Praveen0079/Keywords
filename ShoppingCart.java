@@ -5,7 +5,7 @@ public class ShoppingCart {
         final int productID; // Final variable to ensure unique product ID
         double price;
         int quantity;
-
+ 
         // Constructor using 'this' to initialize attributes
         public Product(String productName, int productID, double price, int quantity) {
             this.productName = productName;
