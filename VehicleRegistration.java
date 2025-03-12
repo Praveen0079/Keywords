@@ -12,7 +12,7 @@ public class VehicleRegistration {
             this.registrationNumber = registrationNumber;
             this.vehicleType = vehicleType;
         }
-
+ 
         // Static method to update registration fee
         public static void updateRegistrationFee(double newFee) {
             registrationFee = newFee;
