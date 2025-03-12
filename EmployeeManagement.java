@@ -9,7 +9,7 @@ public class EmployeeManagement {
 
         // Constructor using 'this' to initialize attributes
         public Employee(String name, int id, String designation) {
-            this.name = name;
+            this.name = name; 
             this.id = id;
             this.designation = designation;
             totalEmployees++; // Increment total employees count
