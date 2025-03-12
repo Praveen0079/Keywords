@@ -11,7 +11,7 @@ public class UniversityManagement {
         public Student(String name, int rollNumber, String grade) {
             this.name = name;
             this.rollNumber = rollNumber;
-            this.grade = grade;
+            this.grade = grade; 
             totalStudents++; // Increment total students count
         }
 
